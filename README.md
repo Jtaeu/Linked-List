@@ -1,6 +1,6 @@
 # Linked-List
 
-// This is result for linked list, based on C language, and struct pointer.
+// This is result for linked list, based on C language, and struct pointer.\n
 // Linked list has advantage on scalability, compared to array-based list.
 // Each nodes are linked in method of storing the next node's address.
 // We can add or delete element by changing the link at the position at which the user want to access.
